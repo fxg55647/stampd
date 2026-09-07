@@ -10,3 +10,10 @@ __pycache__/
 !.claude/commands
 .playwright-mcp/
 webhook-channel/node_modules/
+
+# Jekyll-blogi
+blog/_site/
+blog/.jekyll-cache/
+blog/.jekyll-metadata
+blog/vendor/
+blog/Gemfile.lock
